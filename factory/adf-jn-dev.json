@@ -1,0 +1,9 @@
+{
+	"name": "adf-jn-dev",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "93c059da-3730-480b-acd0-000922927250",
+		"tenantId": "953f7f91-1fe6-498a-aa9e-9f94910831ee"
+	}
+}
